@@ -15,7 +15,7 @@ The existing data available for bike-sharing services lacks essential informatio
 Machine Learning (ML) provides an ideal approach to solving this problem due to its ability to analyze large datasets, identify patterns, and make predictions based on historical data. The use of time series analysis allows us to make daily predictions, while clustering helps uncover seasonal patterns in bike demand and supply. By employing classification models, we aim to identify specific demographics and user behaviors that contribute to daily bike demand. The focus on interpretability ensures that the models provide insights that are actionable for business decisions.
 
 
-#Project Goals
+#Project Goals:
 
 Clean and perform Extensive Data Analysis on Citi Bike Data from UC Irvine Academic Data Set in the Los Angeles Area Spanning over 2 years
 Develop predictive models using time series analysis, clustering, and classification to accurately forecast daily bike demand.
