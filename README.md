@@ -31,3 +31,6 @@ Machine Learning (ML) provides an ideal approach to solving this problem due to 
 -LSTM (Long-Short-Term-Memory) Neural Network
 -ARIMA
 -Random Forest 
+
+
+https://docs.google.com/presentation/d/10FDV02j22rkba-BLiNR29_eukFRIvY47DjXiayEoed0/edit#slide=id.g895460ef75_0_20
