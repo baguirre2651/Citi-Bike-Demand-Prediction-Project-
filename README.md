@@ -25,6 +25,7 @@ Machine Learning (ML) provides an ideal approach to solving this problem due to 
 -Address homelessness and bike theft issues in Oakland and San Francisco through better management of bike-sharing services.
 
 
+
 ## Models Used
 
 -Linear Regression
@@ -33,4 +34,9 @@ Machine Learning (ML) provides an ideal approach to solving this problem due to 
 -Random Forest 
 
 
-https://docs.google.com/presentation/d/10FDV02j22rkba-BLiNR29_eukFRIvY47DjXiayEoed0/edit#slide=id.g895460ef75_0_20
+## Presentation
+
+[bike_sharing.pdf](https://github.com/user-attachments/files/16880647/bike_sharing.pdf)
+
+
+
