@@ -17,7 +17,7 @@ Machine Learning (ML) provides an ideal approach to solving this problem due to 
 
 ## Project Goals:
 
--Clean and perform extensive data analysis on Citi Bike Data from UC Irvine Academic Data Set spanning over 2 years
+-Clean and perform extensive data analysis on Citi Bike Data from SF Academic Data Set spanning over 2 years
 -Develop predictive models using time series analysis, clustering, and classification to accurately forecast daily bike demand.
 -Prioritize interpretability over raw accuracy to facilitate informed decision-making by bike-sharing businesses.
 -Implement ARIMA and LSTM models for series forecasting to enhance prediction accuracy.
